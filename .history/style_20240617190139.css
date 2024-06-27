@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+    background-color:antiquewhite;
+}
+
+nav{
+    /* height: 6.5%; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    height: 165px;
+}
+
+.brand img{
+    height: 44px;
+}
